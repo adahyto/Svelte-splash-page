@@ -27,7 +27,7 @@
   <label>Phone <input bind:value={user.phoneNumber} /></label>
   <label>
     <input type="checkbox" checked={checked.email} />
-    Yes! Send me regular email spam
+    Yes! Send me spam
   </label>
 
   <label>
